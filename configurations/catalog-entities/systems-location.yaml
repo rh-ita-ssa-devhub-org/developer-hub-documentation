@@ -11,4 +11,4 @@ metadata:
   description: A collection of all Systems
 spec:
   targets:
-    - ./systems/maartens-wonderful-system.yaml
+    - ./systems/rh-ita-ssa-system.yaml

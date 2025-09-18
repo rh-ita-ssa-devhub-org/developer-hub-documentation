@@ -1,0 +1,10 @@
+apiVersion: scaffolder.backstage.io/v1beta3
+kind: Template
+metadata:
+  name: default-net
+  title: "Default .net Application"
+  description: Template to create a default .ent application.
+  tags:
+    - .net
+    - default
+    - starter

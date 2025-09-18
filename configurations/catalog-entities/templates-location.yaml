@@ -9,3 +9,4 @@ metadata:
 spec:
   targets:
     - ./templates/default-quarkus-template.yaml
+    - ./templates/dot-net-template.yaml
