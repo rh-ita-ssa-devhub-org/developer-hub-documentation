@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: rh-ita-ssa-devhub-org/ssa
+  name: rh-ita-ssa-devhub-org
   description: The Red Hat Italy SSA organization
   links:
     - url: https://redhat.com/
